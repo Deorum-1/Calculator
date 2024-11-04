@@ -42,4 +42,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For any inquiries, please reach out to [your email or GitHub profile link].
+For any inquiries, please reach out to feranmiisaac622@gmail.com.
