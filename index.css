@@ -60,5 +60,6 @@ button:active{
     background: hsl(0, 0%, 50%);
 }
 .operator-btn{
+    display: grid;
     background: hsl(35, 100%, 55%);
 }
